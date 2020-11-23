@@ -26,6 +26,7 @@
     "arrow-body-style": "off",
     "comma-dangle": "off",
     "import/no-unresolved": "off",
+    "no-underscore-dangle": "off",
     "jsx-a11y/anchor-is-valid": "off",
     "jsx-a11y/click-events-have-key-events": "off",
     "jsx-a11y/control-has-associated-label": "off",
